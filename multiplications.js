@@ -1,3 +1,4 @@
+
 // Desarrollar un algoritmo donde se loguee las tablas de multiplicación
 // Con variables para cantidad de tablas y cantidad de multipl. por tabla..
 
